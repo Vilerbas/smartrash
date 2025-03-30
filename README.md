@@ -25,17 +25,9 @@ O projeto **smartrash** é um protótipo que emprega um sensor de ultrassom e o 
 - **Sensor de Ultrassom**: Utilizado para medir a distância e determinar o nível de resíduos.
 - **HTML, CSS e JavaScript**: Para desenvolver a interface web interativa.
 
-## Como Contribuir
-
-1. Faça um fork deste repositório.
-2. Crie uma branch com a sua feature: `git checkout -b minha-feature`.
-3. Commit suas alterações: `git commit -m 'Adiciona nova feature'`.
-4. Faça o push para a branch: `git push origin minha-feature`.
-5. Abra um Pull Request.
-
 ---
 
-# smartrash
+# Smartrash
 
 Prototype using ultrasonic sensor and ESP8266.
 
@@ -61,11 +53,3 @@ The **smartrash** project is a prototype that employs an ultrasonic sensor and t
 - **ESP8266**: Microcontroller with Wi-Fi capability.
 - **Ultrasonic Sensor**: Used to measure distance and determine the waste level.
 - **HTML, CSS, and JavaScript**: To develop the interactive web interface.
-
-## How to Contribute
-
-1. Fork this repository.
-2. Create a branch with your feature: `git checkout -b my-feature`.
-3. Commit your changes: `git commit -m 'Add new feature'`.
-4. Push to the branch: `git push origin my-feature`.
-5. Open a Pull Request. 
